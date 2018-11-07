@@ -15,6 +15,7 @@ The squatting motion model took reference from:
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4262933/
 - https://www.ncbi.nlm.nih.gov/pubmed/26823657
 
-Anthropromorphic Model took reference from:
+The anthropromorphic model took reference from:
 - https://www.exrx.net/Kinesiology/Segments
 - http://www.ele.uri.edu/faculty/vetter/BME207/anthropometric-data.pdf
+- https://www.nature.com/articles/srep37707
